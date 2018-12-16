@@ -1,0 +1,15 @@
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\bin\Debug\BlockBuilder.exe.config
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\bin\Debug\BlockBuilder.exe
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\bin\Debug\BlockBuilder.pdb
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.csprojAssemblyReference.cache
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\MainWindow.g.cs
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\App.g.cs
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder_MarkupCompile.cache
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder_MarkupCompile.lref
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\MainWindow.baml
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.g.resources
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.Properties.Resources.resources
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.csproj.GenerateResource.cache
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.csproj.CoreCompileInputs.cache
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.exe
+D:\c#\c#Projects\lustenauer\BlockBuilder\BlockBuilder\obj\Debug\BlockBuilder.pdb
